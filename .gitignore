@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+.env
+/storage/*.key
+/public/storage
+/bootstrap/cache
+/.idea
+/.vscode
+.DS_Store
+composer.lock
+npm-debug.log
+yarn-error.log
