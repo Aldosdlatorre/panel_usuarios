@@ -9,8 +9,8 @@
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone gh repo clone Aldosdlatorre/panel_usuarios
+
 ```
 
 2. Instalar dependencias:
